@@ -35,10 +35,10 @@ function homeCarousel(){
             <div className="container-fluid mt-3">
                 <h3 className="brand-title"> 
                     <img src={hearthouse} alt="icon"/>
-                        KrisMish
+                        Kota Babe
                     <img src={hearthouse} alt="icon"/>
                 </h3>
-                <p className="welcome-txt">Welcome to KrishMish, a house of tasty, fresh and affordable combos of food. We provide Indian, Chinese, Korean multi-cusine.</p>
+                <p className="welcome-txt">Welcome to Kota Babe, a house of tasty, freshly made kotas..</p>
                 <p><span className="highlight-txt"> Check</span> and <span className="highlight-txt">Order</span> your favourite dishes right now.</p>
             </div>
         </div>

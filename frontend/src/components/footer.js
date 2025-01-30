@@ -11,12 +11,12 @@ export default class Footer extends Component{
                         <div className="col-md-4 col-sm-12  col-xs-3 footer-col logo-contact-info">
                             <div className="logofooter">
                                 <img className="brand-logo-footer" alt="Brand" src={Brandlogo} height="100px" width="100px"/>
-                                <p className="footer-intro">KrishMish - A House of Taste, Fresh, Affordable Combos Of Food</p>
+                                <p className="footer-intro">Kota Babe - A House of Lolo</p>
                             </div>
                             <div className="addressfooter">
-                                <p><span className="address-label">Address:</span>&nbsp;0/0/0H, Khanpur, West Bengal, India, 000000</p>
-                                <p><span className="address-label">Phone:</span>&nbsp;(+91) 8768119770</p>
-                                <p><span className="address-label">Email:</span>&nbsp;mish.krish1996@gmail.com</p>
+                                <p><span className="address-label">Address:</span>&nbsp;37 Stanrich, EastGate, Johannesburg</p>
+                                <p><span className="address-label">Phone:</span>&nbsp;(+27)8 444 5619</p>
+                                <p><span className="address-label">Email:</span>&nbsp;zaza@gmail.com</p>
                             </div>
                             
                         </div>
@@ -25,7 +25,7 @@ export default class Footer extends Component{
                             <ul className="footer-ul">
                             <li><a href="/"> Career</a></li>
                             <li><a href="/"> Home Delivery</a></li>
-                            <li><a href="/"> Cattering</a></li>
+                    
                             <li><a href="/"> Donate A Meal</a></li>
                             <li><a href="/"> Frequently Ask Questions</a></li>
                             <li><a href="/"> Reviews</a></li>
@@ -45,11 +45,11 @@ export default class Footer extends Component{
                 <div className="container-fluid copyright">
                     <div className="copyright-section">
                         <div className="copyright-text">
-                            <span>© 2023 - All Rights with KrishMish</span>
+                            <span>© 2023 - All Rights with Kota Babe</span>
                         </div>
                         <div className="copyright-email">
-                            <a className="footer-a-tag" href="/">www.krishmish.com / </a>
-                            <a className="footer-a-tag site-map-link" href="/">Site Map</a>
+                            <a className="footer-a-tag" href="/">www.kotababe.com / </a>
+                            {/* <a className="footer-a-tag site-map-link" href="/">Site Map</a> */}
                         </div>
                     </div>
                 </div>
